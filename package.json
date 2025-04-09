@@ -1,0 +1,15 @@
+{
+    "name": "test-project",
+    "version": "1.0.0",
+    "dependencies": {
+      "jasmine-core": "~4.5.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jasmine"
+    },
+    "engines": {
+      "yarn": "1.x"
+    }
+  }
+  
