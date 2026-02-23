@@ -2,7 +2,7 @@
     "name": "test-project",
     "version": "1.0.0",
     "dependencies": {
-        "jasmine-core": "~4.5.0"
+        "jasmine-core": "~6.1.0"
     },
     "scripts": {
         "test": "jasmine"
